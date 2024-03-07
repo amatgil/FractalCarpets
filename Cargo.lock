@@ -12,4 +12,4 @@ dependencies = [
 [[package]]
 name = "ppmitzador"
 version = "0.1.0"
-source = "git+https://github.com/amatgil/ppmitzador#f9d99cb38425d91bfd4e8cf100b2ffa3e1f9b858"
+source = "git+https://github.com/amatgil/ppmitzador#dd8d9b40879e2742b20d88ac93c2d754bc4bba6d"
